@@ -1,0 +1,14 @@
+.DS_Store
+.nyc_output/
+.vscode/
+ex-src/
+/bin/
+coverage/
+node_modules/
+playground/
+reports/
+*.log*
+.env
+bundle.min.js
+__snapshots__/
+package-lock.json
